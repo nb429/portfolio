@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/nb429/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   nb429.netlify.app
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/nb429/portfolio/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
