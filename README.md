@@ -2,13 +2,13 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  vecenteportfolio.netlify.app
+  nb429.netlify.app
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://vecenteportfolio.netlify.app" target="_blank">vecenteportfolio.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The fourth iteration of <a href="https://nb429.netlify.app" target="_blank">nb429.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/VecenteEdwards/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/nb429/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
   </a>
 </p>
@@ -25,7 +25,7 @@ Please also note that I did not build this site with the intention of it being a
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [vecenteportfolio.netlify.app](https://vecenteportfolio.netlify.app). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [nb429.netlify.app](https://nb429.netlify.app). Thanks!
 
 ## 🛠 Installation & Set Up
 

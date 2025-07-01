@@ -2,10 +2,10 @@
   "name": "",
   "description": "Personal Website",
   "version": "1.0.0",
-  "author": "Vecente Edwards <vecente.edwards@gmail.com>",
+  "author": "nb429 <nb42907@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VecenteEdwards/Portfolio"
+    "url": "https://github.com/nb429/portfolio"
   },
   "keywords": [
     "gatsby"

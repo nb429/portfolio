@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Vecente Edwards',
+    title: 'nb429',
     description:
-      'Vecente Edwards is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://vecenteportfolio.netlify.app', // No trailing slash allowed!
+      'nb429 is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://nb429.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@VecenteEdwards',
+    twitterUsername: '@nb429',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Vecente Edwards',
-        short_name: 'Vecente',
+        name: 'nb429',
+        short_name: 'nb429',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

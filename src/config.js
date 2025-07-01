@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'vecente.edwards@gmail.com',
+  email: 'nb42907@hotmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/VecenteEdwards',
+      url: 'https://github.com/nb429',
     },
     {
       name: 'Teams',
@@ -12,11 +12,11 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@vecente.edwards',
+      url: 'https://medium.com/@nb429',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/VecenteEdwards',
+      url: 'https://www.linkedin.com/in/nb429',
     },
   ],
 
