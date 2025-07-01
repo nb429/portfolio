@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/nb429/portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  nb429.netlify.app23
+  nb429.netlify.app
 </h1>
 <p align="center">
   The fourth iteration of <a href="https://nb429.netlify.app" target="_blank">nb429.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
