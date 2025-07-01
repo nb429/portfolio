@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is nb429 and I enjoy creating things that live on the internet.<br></br>
+              Hello! My name is Napoleon Bassel and I enjoy creating things that live on the internet.<br></br>
               My interest in web development started back in 2017 when I decided to try editing first
               project about HTML &amp; CSS.
             </p>
@@ -162,7 +162,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
