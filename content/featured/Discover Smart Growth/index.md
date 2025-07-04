@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Discover Smart Growth'
 cover: './demo.png'
 external: 'https://www.clearer.io/'

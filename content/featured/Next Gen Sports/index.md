@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Next Gen Sports'
 cover: './demo.png'
 external: 'https://ngensports.com/'

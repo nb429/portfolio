@@ -12,10 +12,14 @@ const IconTeams = () => (
     strokeLinejoin="round"
     className="feather feather-teams">
     <title>Microsoft Teams</title>
-    <path d="M12 2h7a3 3 0 0 1 3 3v7h-4a3 3 0 0 1-3-3V2z" />
-    <path d="M3 6h8v2H6v10h5v2H3V6z" />
-    <circle cx="18" cy="13" r="3" />
-    <path d="M20.5 16.5A5 5 0 0 1 23 21h-5a5 5 0 0 1 2.5-4.5z" />
+    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+    <path d="M3 7h10v10h-10z" />
+    <path d="M6 10h4" />
+    <path d="M8 10v4" />
+    <path d="M8.104 17c.47 2.274 2.483 4 4.896 4a5 5 0 0 0 5 -5v-7h-5" />
+    <path d="M18 18a4 4 0 0 0 4 -4v-5h-4" />
+    <path d="M13.003 8.83a3 3 0 1 0 -1.833 -1.833" />
+    <path d="M15.83 8.36a2.5 2.5 0 1 0 .594 -4.117" />
   </svg>
 );
 
