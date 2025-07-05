@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Nelson Bravo and I enjoy creating things that live on the internet.<br></br>
+              Hello! My name is Ace Villarta and I enjoy creating things that live on the internet.<br></br>
               My interest in web development started back in 2017 when I decided to try editing first
               project about HTML &amp; CSS.
             </p>
