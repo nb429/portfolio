@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'nb42907@hotmail.com',
+  email: 'acevillarta583@gmail.com',
 
   socialMedia: [
     {
@@ -12,11 +12,11 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@nb429',
+      url: 'https://medium.com/@acevillarta583',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/nb429',
+      url: 'https://www.linkedin.com/in/ace-villarta-0a6525373/',
     },
   ],
 
