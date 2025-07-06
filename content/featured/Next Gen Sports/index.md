@@ -5,7 +5,7 @@ cover: './demo.png'
 external: 'https://ngensports.com/'
 cta: 'https://ngensports.com/'
 tech:
-  - React
+  - Next.js
   - Styled Components
   - Css3
   - Node.js
