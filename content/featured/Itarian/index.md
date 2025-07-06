@@ -5,7 +5,7 @@ cover: './demo.png'
 external: 'https://www.itarian.com/'
 cta: 'https://www.itarian.com/'
 tech:
-  - React
+  - Laravel
   - Node.js
   - Figma Design
   - Tailwind Css
