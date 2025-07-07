@@ -12,11 +12,11 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@acevillarta583',
+      url: 'https://medium.com/@acevillarta8',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ace-villarta-0a6525373/',
+      url: 'https://www.linkedin.com/in/acevillarta8/',
     },
   ],
 
